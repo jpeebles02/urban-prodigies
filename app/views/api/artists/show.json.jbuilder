@@ -1,0 +1,1 @@
+json.partial! "artist.json.jbuilder", artist: @artist
